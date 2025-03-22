@@ -13,7 +13,7 @@ This repository contains the implementation of sequence-to-sequence models for E
 - **Problem_3.ipynb**  
   Reverses the translation direction (French-to-English) and compares performance with Problem 2.
 
-## 📌 Highlights
+## 📌 Some Detials
 
 - Word-level GRU encoder-decoder architecture.
 - Attention mechanism improves contextual understanding.
@@ -26,6 +26,4 @@ This repository contains the implementation of sequence-to-sequence models for E
 - **P2**: Attention improves performance over basic GRU.
 - **P3**: French-to-English translation is more challenging; attention still helps but accuracy is lower.
 
----
 
-Feel free to explore each notebook for implementation details and evaluation results.
